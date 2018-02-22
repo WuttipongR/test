@@ -2,5 +2,3 @@ This is my data
 Happy now
 
 I add more data here!!!
-
-There are some bugs I am trying to fix .
