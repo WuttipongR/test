@@ -7,3 +7,5 @@ There are some bugs I am trying to fix
 I fixed it already
 
 This is Test 1.2
+Merge from Test 1.1
+
